@@ -6,24 +6,10 @@ Welcome to Koalit's GitHub organization! We are a software development company b
 
 ### Founders
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <a href="https://github.com/durini309">
-        <img src="https://github.com/durini309.png" width="100px;" alt="Juan Carlos Durini"/><br />
-        <sub><b>Juan Carlos Durini</b></sub>
-      </a><br />
-      <a href="https://github.com/durini309">@durini309</a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/cancinos">
-        <img src="https://github.com/cancinos.png" width="100px;" alt="Pablo Cancinos"/><br />
-        <sub><b>Pablo Cancinos</b></sub>
-      </a><br />
-      <a href="https://github.com/cancinos">@cancinos</a>
-    </td>
-  </tr>
-</table>
+| [![Juan Carlos Durini](https://github.com/durini309.png?size=100)](https://github.com/durini309) | [![Pablo Cancinos](https://github.com/cancinos.png?size=100)](https://github.com/cancinos) |
+|:---:|:---:|
+| **Juan Carlos Durini** | **Pablo Cancinos** |
+| [@durini309](https://github.com/durini309) | [@cancinos](https://github.com/cancinos) |
 
 ## 🌐 Connect With Us
 
